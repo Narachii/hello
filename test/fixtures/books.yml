@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: MyString
+  title: MyString
+  price: 1
+  publish: MyString
+  published: 2017-11-18
+  dl: false
+
+two:
+  isbn: 12-22-22g
+  title: two
+  price: 1
+  publish: marvel
+  published: 2017-11-18
+  dl: false
+
+modernjs:
+  isbn: 12-34-44
+  title: modernjs
+  price: 2000
+  publish: marvel
+  published: 2017-11-18
+  dl: false
+
+jsp:
+  isbn: 12-44-32
+  title: jsp
+  price: 10000
+  publish: marvel
+  published: 2017-11-18
+  dl: false
+
+sample:
+  isbn: 12-34-56
+  title: Rails sample
+  price: 1000
+  publish: marvel
+  published: 2017-11-18
+  dl: false
